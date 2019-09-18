@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+UBC Student
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time, I like gymming, hiking and listening music
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[simardeep.kaur.jeji@gmail.com](mailto:simardeep.kaur.jeji@gmail.com)
